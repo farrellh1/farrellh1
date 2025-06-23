@@ -62,4 +62,4 @@ Here are a few projects and contributions I'm proud of. Please note that many of
 | :--- | :--- | :--- |
 | **Redis-like Server in Rust** | A personal deep-dive project to build a high-concurrency, key-value database from scratch. [**Read the full story on my blog**](https://lnkd.in/gx-wUiFb). | `Rust`, `Tokio`, `TCP`, `Concurrency` |
 | **Tikeetron (Hackathon Project)** | A decentralized ticketing system built for a Tron Network Hackathon, leveraging ERC721 NFTs for secure and verifiable tickets. | `Solidity`, `Next.js`, `Nest.js`, `MongoDB` |
-| **Open Source - Ponder** | Contributed to Ponder, an open-source backend framework for crypto. My work involved improving developer experience by enhancing the readability of long event names in the codebase. | `TypeScript` |
+| **Open Source - Ponder** | Contributed to [**Ponder**](https://github.com/ponder-sh), an open-source backend framework for crypto. My work involved improving developer experience by enhancing the readability of long event names in the codebase. | `TypeScript` |
