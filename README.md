@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Farrell Hauzan 👋
 
-### Fullstack Web3 Engineer | Decentralized Systems & APIs
+### Web3 Engineer | Decentralized Systems & APIs
 
 I'm a results-driven backend engineer specializing in building the scalable off-chain infrastructure and APIs that power high-performance decentralized applications. I thrive on solving complex system design challenges and believe in writing clean, efficient, and well-documented code.
 
