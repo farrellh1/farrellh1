@@ -9,4 +9,6 @@ Full-stack engineer. AI products on a backend & Web3 foundation: TypeScript, Go,
 - [iron_cache](https://github.com/farrellh1/iron_cache): Redis-like KV store in Rust. [Story](https://lnkd.in/gx-wUiFb).
 - [order-book-rs](https://github.com/farrellh1/order-book-rs): low-latency matching engine in Rust.
 
+**OSS** · [Miden](https://github.com/0xMiden/node/pulls?q=is%3Apr+author%3Afarrellh1+is%3Amerged) (Rust, ZK rollup) · [Ponder](https://github.com/ponder-sh/ponder/pull/1550) (TypeScript indexer)
+
 [LinkedIn](https://www.linkedin.com/in/farrellh) · [Upwork](https://www.upwork.com/freelancers/~0161da64636535cc02)
