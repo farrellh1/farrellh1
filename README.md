@@ -1,14 +1,16 @@
-### Muhammad Farrell Hauzan
+# Muhammad Farrell Hauzan
 
-Full-stack engineer. AI products on a backend & Web3 foundation: TypeScript, Go, Rust, Solidity.
+AI engineer. Ships AI product features end-to-end. Backend and Web3 foundation.
+
+**Available for new opportunities.** farrell.hauzan@gmail.com · Top Rated Plus on Upwork
 
 **Selected work**
 
-- [evalpr](https://github.com/farrellh1/evalpr): eval-graded AI code review, shipped as a GitHub Action.
-- [smart-contract-auditor-skill](https://github.com/farrellh1/smart-contract-auditor-skill): checklist-driven Solidity audits for Claude Code.
+- [eval-harness](https://eval-harness.farrellh.dev): LLM eval harness with custom rubrics. Audited 5/25 SWE-bench Verified tasks (20% had issues).
+- [another-me](https://github.com/farrellh1/another-me): personal knowledge wiki with a custom Claude Code plugin (ingest, query, lint skills).
 - [iron_cache](https://github.com/farrellh1/iron_cache): Redis-like KV store in Rust. [Story](https://lnkd.in/gx-wUiFb).
 - [order-book-rs](https://github.com/farrellh1/order-book-rs): low-latency matching engine in Rust.
 
 **OSS** · [Miden](https://github.com/0xMiden/node/pulls?q=is%3Apr+author%3Afarrellh1+is%3Amerged) (Rust, ZK rollup) · [Ponder](https://github.com/ponder-sh/ponder/pull/1550) (TypeScript indexer)
 
-[LinkedIn](https://www.linkedin.com/in/farrellh) · [Upwork](https://www.upwork.com/freelancers/~0161da64636535cc02)
+[X](https://x.com/farrellh1_) · [LinkedIn](https://www.linkedin.com/in/farrellh) · [Website](https://farrellh.dev)
