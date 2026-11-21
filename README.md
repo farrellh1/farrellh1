@@ -1,20 +1,23 @@
-# Muhammad Farrell Hauzan
+# Hi, I'm Farrell
 
-Backend & Web3 engineer. Rust, TypeScript, Solidity/Foundry, Go, Python. I ship protocol backends and on-chain + AI agents end-to-end.
+Backend & AI engineer based in Jakarta. I build backend services, AI agents, and the evaluations that check whether they work.
 
-**Open to senior remote roles and contract.** farrell.hauzan@gmail.com · Top Rated Plus on Upwork · Remote (Jakarta, UTC+7, overlaps EU/US)
+Currently a **Fullstack Engineer at Taama AI**, building AI-powered regulatory compliance workflows. Previously, I audited **800+ coding-agent benchmark tasks at AfterQuery (YC W25)** and worked on **Ruby-to-Go backend migrations at Mekari**.
 
-**Open-source** · merged PRs into projects I'd want to work on
-- [Miden](https://github.com/0xMiden/node/pulls?q=is%3Apr+author%3Afarrellh1+is%3Amerged) — Rust ZK rollup node
-- [Ponder](https://github.com/ponder-sh/ponder/pull/1550) — TypeScript on-chain indexer
+## Selected work
 
-**Selected work**
+- **[gatekeep](https://github.com/farrellh1/gatekeep)** — A multi-agent GitHub App that flags low-effort PRs and issues with grounded evidence. TypeScript/Octokit gateway + Python/LangGraph brain.
+- **[agent-eval-harness](https://github.com/farrellh1/agent-eval-harness)** — Evaluation and benchmark auditing for coding agents on SWE-bench Verified. Flagged defects in 5 of 25 audited tasks. [Dashboard](https://eval-harness.farrellh.dev)
+- **[evalpr](https://github.com/farrellh1/evalpr)** — AI code review with a second model grading the findings. Measured F1 of 0.82 across 10 fixtures.
 
-- [gatekeep](https://github.com/farrellh1/gatekeep): multi-agent GitHub App that flags low-effort and AI-generated PRs/issues with grounded, explainable evidence. TypeScript gateway touches GitHub, Python/LangGraph brain decides and never holds a token.
-- [eval-harness](https://eval-harness.farrellh.dev): LLM eval harness with custom rubrics. Audited 5/25 SWE-bench Verified tasks (20% had issues).
-- [iron_cache](https://github.com/farrellh1/iron_cache): Redis-like in-memory KV store in Rust, concurrent TCP server. [Story](https://lnkd.in/gx-wUiFb).
-- [order-book-rs](https://github.com/farrellh1/order-book-rs): low-latency matching engine in Rust (170 ns execution path).
+## Backend & open source
 
-**Stack** · Rust · TypeScript / Node · Solidity / Foundry · Viem · Go · Python · React / Next.js · EVM · ZK · LLM evals
+- At **Mekari**, contributed to a 90% reduction in team escalations by fixing race conditions and making background jobs idempotent and atomic.
+- **[Miden contributor](https://github.com/0xMiden/node/pulls?q=is%3Apr+is%3Amerged+author%3Afarrellh1)** — Four merged Rust PRs covering block-producer limits, configuration validation, and type-safe durations.
+- In client work, implemented **Ponder / The Graph** indexing that improved frontend query performance by **20×**.
 
-[X](https://x.com/farrellh1_) · [LinkedIn](https://www.linkedin.com/in/farrellh) · [Website](https://farrellh.dev)
+**Stack:** TypeScript · Go · Python · Ruby · Rust · React / Next.js · PostgreSQL · Redis · Docker · LangGraph
+
+[Website](https://farrellh.dev) · [LinkedIn](https://www.linkedin.com/in/farrellh/) · [Email](mailto:farrell.hauzan@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=farrellh1&color=grey&style=flat-square)
