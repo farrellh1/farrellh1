@@ -1,6 +1,6 @@
 # Hi, I'm Farrell
 
-Backend & AI engineer based in Jakarta. I build backend services, AI agents, and the evaluations that check whether they work.
+Fullstack & AI engineer based in Jakarta. I build web apps, backend services, AI agents, and the evaluations that check whether they work.
 
 Currently a **Fullstack Engineer at Taama AI**, building AI-powered regulatory compliance workflows. Previously, I audited **800+ coding-agent benchmark tasks at AfterQuery (YC W25)** and worked on **Ruby-to-Go backend migrations at Mekari**.
 
